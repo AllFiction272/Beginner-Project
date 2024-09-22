@@ -1,0 +1,16 @@
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\bin\Debug\WPF_Taschenrechner.exe.config
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\bin\Debug\WPF_Taschenrechner.exe
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\bin\Debug\WPF_Taschenrechner.pdb
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\WPF_Taschenrechner.csproj.AssemblyReference.cache
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\MainWindow.g.cs
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\App.g.cs
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\WPF_Taschenrechner_MarkupCompile.cache
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\WPF_Taschenrechner_MarkupCompile.lref
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\MainWindow.baml
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\WPF_Taschenrechner.g.resources
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\WPF_Taschenrechner.Properties.Resources.resources
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\WPF_Taschenrechner.csproj.GenerateResource.cache
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\WPF_Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\WPF_Taschenrechner.exe
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\WPF_Taschenrechner.pdb
+C:\Users\shkel\source\repos\WPF_Taschenrechner\WPF_Taschenrechner\obj\Debug\App.baml
